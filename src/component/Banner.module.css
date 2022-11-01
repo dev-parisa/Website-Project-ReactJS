@@ -1,0 +1,26 @@
+.container{
+    width: 100%;
+    position: relative;
+    height: 550px;
+    background-color: #5F7F7E;
+    
+}
+.banner {
+    width: 100%;
+    
+}
+.textContainer{
+    position: absolute;
+    top:150px;
+    left: 100px;
+}
+
+.textContainer h1 {
+    font-size: 7rem;
+    color: #CCB2B0;
+}
+.textContainer p {
+    font-size: 2rem;
+    margin-top: 20px;
+    color: #CCCFD4;
+}
